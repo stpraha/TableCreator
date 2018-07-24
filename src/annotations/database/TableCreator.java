@@ -76,7 +76,7 @@ public class TableCreator {
 		String url = "jdbc:mysql://localhost:3306/java_comment";
 		//user and password
 		String username = "root";
-		String password = "a13757407965b";
+		String password = "************";
 		Connection conn = null;
 		try {
 			Class.forName(driver);	//CLASS LOADER
